@@ -3,7 +3,7 @@
 ## in your large enviournment.                                                ##
 ## Just enter the list of hostnames as configured in nagios in                ##
 ## server_list.txt file.                                                      ##
-## Plugin by Vishal Vilas Patil  - vishal.patil2906@gmail.com		          ##
+## Plugin by Vishal Vilas Patil  - vicky_vishalpatil@hotmail.com  		          ##
 ################################################################################
 !/bin/bash
 
