@@ -2,7 +2,7 @@
 ## This plugin pulls all files in each specified directory, and checks their  ##
 ## created time against the current time. If the maximum age of any file is   ##
 ## exceeded, a critical message is returned as appropriate.                   ##
-## Plugin by Vishal Vilas Patil  - vishal.patil2906@gmail.com		      ##
+## Plugin by Vishal Vilas Patil  - vicky_vishalpatil@hotmail.com		      ##
 ################################################################################
 
 # Change the path & adjust the days/hours/mins as per your requirement
